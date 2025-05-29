@@ -2,6 +2,8 @@
 
 A context-aware chat application built with Next.js and Google's Gemini API. This application demonstrates how to create a multi-turn conversation with Gemini that maintains context across messages.
 
+<img  src="./@proof_images/Q4.3 Context-Aware Gemini Chat.png.png"/>
+
 
 ### Note -  As mentioned in the Assignment problem statement:
 No GUI or written essay is required – focus on writing code. but for better Interative UI, I have added some UI components.
